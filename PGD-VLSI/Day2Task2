@@ -1,0 +1,11 @@
+If age is less than 13
+→ Print: "You are a Child"
+
+If age is between 13 and 19 (inclusive)
+→ Print: "You are a Teenager"
+
+If age is between 20 and 59 (inclusive)
+→ Print: "You are an Adult"
+
+If age is 60 or above
+→ Print: "You are a Senior Citizen"
