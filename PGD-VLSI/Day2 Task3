@@ -1,0 +1,11 @@
+If the path is a regular file
+→ Print: "It is a regular file"
+
+2️⃣ If the path is a directory
+→ Print: "It is a directory"
+
+3️⃣ If the path exists but is not readable
+→ Print: "It exists but is not readable"
+
+4️⃣ If the path does not exist
+→ Print: "Invalid path! It does not exist"
