@@ -1,0 +1,19 @@
+Ask the user to enter:
+
+Marks in Subject 1
+
+Marks in Subject 2
+
+Marks in Subject 3
+
+Calculate the total marks.
+
+Apply the following rules:
+
+If all subjects marks are ≥ 40
+→ Print: "You Passed"
+
+If any subject mark is less than 40
+→ Print: "You Failed"
+
+Display the total marks.
