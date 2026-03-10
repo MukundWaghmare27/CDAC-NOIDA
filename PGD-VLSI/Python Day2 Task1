@@ -1,0 +1,30 @@
+Count Positive, Negative and Zero Numbers
+Problem
+
+Write a Python program that:
+
+Asks the user to enter 10 numbers
+
+Counts how many numbers are:
+
+Positive
+
+Negative
+
+Zero
+
+Example Output
+Enter number 1: 5
+Enter number 2: -3
+Enter number 3: 0
+...
+
+Positive numbers = 4
+Negative numbers = 3
+Zero values = 3
+
+Concepts Used:
+for loop
+if-elif-else
+
+counters
